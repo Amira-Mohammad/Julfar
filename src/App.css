@@ -1,0 +1,15 @@
+html,
+body,
+.App {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+.esri-view {
+  height: 100vh !important;
+}
